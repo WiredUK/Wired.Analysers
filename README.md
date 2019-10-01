@@ -7,5 +7,7 @@ Encourages the proactice of including the `Async` suffix to all async methods.
 
 
 
+---
 
-* OK, just one right now but I hope to expand this in the future.
+
+\* OK, just one right now but I hope to expand this in the future.
